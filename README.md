@@ -1,8 +1,8 @@
-# 🚀 SmartDoc Pro 2.0 – AI-Powered Writing Insights
+# 🚀 SmartDoc Pro 2.0 – Algortihm-based Writing Insights
 
 ![Version](https://img.shields.io/badge/version-2.0-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue)
 
-SmartDoc Pro 2.0 is your **AI-powered writing assistant** for **clarity, impact, and precision.** Whether you're a writer, researcher, or content strategist, this tool **transforms raw text into actionable insights.** 📝✨
+SmartDoc Pro 2.0 is your **writing assistant** for **clarity, impact, and precision.** Whether you're a writer, researcher, or content strategist, this tool **transforms raw text into actionable insights.** 📝✨
 
 ## Why SmartDoc Pro?
 ✅ **Real-time Analysis** – Get instant feedback on readability, complexity & sentiment.  
