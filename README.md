@@ -1,4 +1,4 @@
-# 🚀 SmartDoc Pro 2.0 – Algortihm-based Writing Insights
+# 🚀 SmartDoc Pro 2.0 – Algorithm-based Writing Insights
 
 ![Version](https://img.shields.io/badge/version-2.0-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue)
 
