@@ -24,5 +24,5 @@ SmartDoc Pro 2.0 is your **writing assistant** for **clarity, impact, and precis
 
 **I made this because i think too many websites ask for money or signup/login to do any sort of analysis on your text. I am a college student and i just want a quick overlook of my text and not jump through hoops. So, yeah, i don't have a PayPal enbaled here or anything. This website will not ask for money or make you click any links. I am responsible for the text analysis only. If anything of this sort pops up - reload the page please.**
 
-**Is this as good as the paid, premium versions of similar apps? 
- - No but it's free and works pretty quickly for meduim-sized texts**
+Is this as good as the paid, premium versions of similar apps? 
+ - No but it's free and works pretty quickly for meduim-sized texts
