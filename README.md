@@ -7,7 +7,7 @@ SmartDoc Pro 2.0 is your **writing assistant** for **clarity, impact, and precis
 ## Why SmartDoc Pro?
 ✅ **Real-time Analysis** – Get instant feedback on readability, complexity & sentiment.  
 ✅ **AI-Powered Insights** – Track your writing style evolution with **interactive charts.**  
-✅ **Better Than Traditional Tools** – Unlike Grammarly or Hemingway, **SmartDoc Pro goes beyond grammar** to analyze deep text structures.  
+✅ **Different From Traditional Tools** – Unlike Grammarly or Hemingway, **SmartDoc Pro goes beyond grammar** to analyze deep text structures.  
 ✅ **Privacy First** – 100% on-device processing, **no data leaks.** 🔒  
 
 ---
