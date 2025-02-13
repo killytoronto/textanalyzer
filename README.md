@@ -26,3 +26,5 @@ SmartDoc Pro 2.0 is your **writing assistant** for **clarity, impact, and precis
 
 Is this as good as the paid, premium versions of similar apps? 
  - No but it's free and works pretty quickly for meduim-sized texts
+
+At the moment, the tool analyzes texts in English. Support for additional languages is planned.
