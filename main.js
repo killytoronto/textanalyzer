@@ -2118,7 +2118,7 @@ This document demonstrates the capabilities of SmartDoc Pro 2.0, an advanced too
 
 ## Key Features
 * Real-time markdown preview
-* AI-powered analysis
+* Hand-crafted smart Algorithmic Analysis
 * Smart suggestions
 * Cohesion, Emotional, Argument analysis
 
