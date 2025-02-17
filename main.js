@@ -1955,7 +1955,7 @@ function updateInsights(analysis) {
   const suggestions = engine.generateSuggestions(editor.value, analysis);
   if (suggestions.length === 0) {
     insightsContainer.innerHTML = `
-      <h3 class="insights-title"><i class="fas fa-brain"></i> AI Insights</h3>
+      <h3 class="insights-title"><i class="fas fa-brain"></i> Algorithmic Insights </h3>
       <p>No suggestions at this time. Your document looks great!</p>
     `;
     return;
@@ -2009,7 +2009,7 @@ function clearDocument() {
       ${createMetricCard("fas fa-balance-scale lexical-density", "0%", "Lexical Density", "Measures the percentage of content words compared to function words.")}
     `;
     insightsContainer.innerHTML = `
-      <h3 class="insights-title"><i class="fas fa-brain"></i> AI Insights</h3>
+      <h3 class="insights-title"><i class="fas fa-brain"></i> Algorithmic Insights </h3>
       <p>No insights available. Start analyzing your document!</p>
     `;
     showToast('Document cleared', 'success');
