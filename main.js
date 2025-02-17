@@ -1961,7 +1961,7 @@ function updateInsights(analysis) {
     return;
   }
   insightsContainer.innerHTML = `
-    <h3 class="insights-title"><i class="fas fa-brain"></i> AI Insights & Suggestions</h3>
+    <h3 class="insights-title"><i class="fas fa-brain"></i> Algorithmic Insights & Suggestions</h3>
     ${suggestions.map(sug => `
       <div class="insight-card">
         <div class="insight-header">
